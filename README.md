@@ -1,6 +1,6 @@
-##APLIKASI WEB SEKOLAH oleh TIM RPL | SMK NURUL ISLAM
+##APLIKASI WEB TREVEL DANOU TOBA oleh TIM RPL | SMK NURUL ISLAM
 ###BUILD WITH LARAVEL 8
-####Untuk mulai menggunakan aplikasi, harap baca ini.
+###Untuk mulai menggunakan aplikasi, harap baca ini.
 1. Clone repository ini, dengan tekan tombol CODE (warna hijau) lalu salin link https repository
 2. Buka terminal/cmd ketik perintah git clone link yang dicopy
 3. Selanjutnya, buka terminal/cmd dan arahkan ke folder yang sudah di clone
